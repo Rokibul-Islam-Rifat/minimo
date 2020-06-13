@@ -46,19 +46,13 @@
             padding: 13px 16px;
             font-size: 16px;
         }
-        /* contact part start */
-        .contact {
-            padding: 20px 0;
+        /* signup part start */
+        .signup {
+            padding: 50px 0;
         }
-        .form-style input {
-            padding-right: 0px;
-        }
-        .contact h2 {
-            font-size: 21px;
-            padding-bottom: 0px;
-        }
-        .custom-btn {
-            font-size: 20px;
+        .signup-content h2 {
+            font-size: 24px;
+            padding: 0;
         }
         /* footer part start */
         .social-icon {
@@ -96,6 +90,11 @@
         }
         .service-content p {
             padding-bottom: 20px;
+        }
+        /* signup part start */
+        .signup-content h2 {
+            font-size: 20px;
+            padding: 30px 0;
         }
         /* footer part start */
         .social-icon {

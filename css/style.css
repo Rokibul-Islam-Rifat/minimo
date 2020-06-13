@@ -97,37 +97,40 @@ html {
 
 /* service part end */
 
-.contact {
+
+/* signup part start */
+
+.signup {
     padding: 75px 0;
     background: #f0f0f0;
 }
 
-.contact h2 {
+.signup-content h2 {
     font-size: 35px;
     color: #333;
     font-family: 'Playfair Display', serif;
-    padding-bottom: 45px;
+    padding: 50px 0;
 }
 
-.form-style {
-    margin: 0 auto;
-    display: inline-block;
-}
-
-.form-style form {
+.input-group {
     border: none;
     border-bottom: 1px solid#000000;
 }
 
-.form-style input {
-    background: transparent;
+.form-control {
     border: none;
-    padding-right: 112px;
+    background: transparent;
+    padding-left: 0;
 }
 
-.custom-btn {
-    font-size: 30px;
+.input-group-append span {
+    background: transparent;
+    border: none;
+    cursor: pointer;
 }
+
+
+/* signup part end */
 
 
 /* service-2 part start */
